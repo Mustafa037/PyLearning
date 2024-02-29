@@ -48,3 +48,5 @@ while not end_of_game:
     print(hangman_art.stages[lives])
 if end_of_game == True:
   print(f"it was {chosen_word}")
+
+#tested changes in GitHub
